@@ -10,7 +10,7 @@ int main()
     int b = 2;
     int c = a ^ b;
     
-    cout<<c<<endl;
+    cout<<"The answer is :"c<<endl;
 
     return 0;
 }
